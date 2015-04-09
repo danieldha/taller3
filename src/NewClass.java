@@ -8,5 +8,5 @@
  * @author daniel
  */
 public class NewClass {
-    
+    int x ;
 }
